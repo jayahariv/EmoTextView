@@ -31,6 +31,13 @@
 - **Customizable UI**
   - Supports light/dark modes and theme customization.
 
+
+<img width="214" height="61" alt="Screenshot 2025-07-22 at 1 32 29 PM" src="https://github.com/user-attachments/assets/e3db2688-7ef6-45d6-8b72-618bf5d64bcd" />
+<img width="213" height="63" alt="Screenshot 2025-07-22 at 1 33 17 PM" src="https://github.com/user-attachments/assets/a9b7caa1-61da-4168-b8f0-ca712f387445" />
+<img width="212" height="56" alt="Screenshot 2025-07-22 at 1 33 46 PM" src="https://github.com/user-attachments/assets/e9256a04-6966-4067-8a6d-5b6bfc9d4c9e" />
+
+
+
 ## Additional Features (Ideas)
 - **Undo/redo emotional feedback**: User can dismiss or accept emotion suggestions.
 - **Integration hooks**: Callbacks for developers to handle specific emotional states.
