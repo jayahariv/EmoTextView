@@ -39,7 +39,7 @@
 Leveraging Apple’s On-Device Foundation Model for Sentiment Analysis
 
 ### Why On-Device?
-- Apple’s Foundation Model (iOS 18+) offers powerful Natural Language Processing—now with deep sentiment and emotion detection.
+- Apple’s Foundation Model (iOS 26+) offers powerful Apple Intelligence. 
 - **All processing is on-device, ensuring privacy and security.** No text leaves the user’s device.
 
 ### Implementation Steps
@@ -48,7 +48,7 @@ Leveraging Apple’s On-Device Foundation Model for Sentiment Analysis
    - The component listens for text changes as the user types.
 2. **Sentiment/Emotion Analysis**
    - Use the Natural Language framework and Foundation Model to analyze input.
-   - For iOS 18+, use updated APIs for nuanced emotion detection (anger, joy, excitement, etc.).
+   - For iOS 26+, use updated APIs for nuanced emotion detection (anger, joy, excitement, etc.).
 3. **Real-Time UI Feedback**
    - Instantly update the text field’s visuals (color, icons, emoticons, tooltips) based on the returned emotion/sentiment.
 4. **No External Dependencies**
