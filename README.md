@@ -1,5 +1,9 @@
 # # EmoTextView [SwiftUI] [iOS26] 
 
+
+> **Note:** This project is currently in the ideation stage, and the sample code provided is generated for demonstration purposes only. As I do not have access to an Apple Intelligence-enabled device, the functionality has not been tested or verified. Contributions or efforts to make it work are welcome.
+
+
 ## Overview
 **EmoTextView** is a smart text input component that analyzes the emotional tone of user input in real-time and provides visual feedback based on detected sentiment. If the text is angry or aggressive, the component visually warns the user; if the text is positive or overly enthusiastic, it displays corresponding friendly indicators. This encourages empathetic, constructive communication and helps users better understand the tone of their messages.
 
